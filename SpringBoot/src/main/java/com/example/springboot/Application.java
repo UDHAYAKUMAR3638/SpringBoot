@@ -11,5 +11,4 @@ public class Application {
 		// Supplier supplier = new Supplier(1,"ABC LIMITED","Ahamedabad","NA",2);
 		// log.info("Supplier: {}", supplier);
 	}
-
 }
